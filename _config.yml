@@ -1,4 +1,4 @@
-url: "http://davidlynch.org"
+url: "http://airborn12.github.io/demo"
 pygments: true
 permalink: /blog/:year/:month/:title/
 markdown: rdiscount
