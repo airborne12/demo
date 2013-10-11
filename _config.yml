@@ -1,12 +1,12 @@
 url: "http://airborn12.github.io/demo"
 pygments: true
-permalink: /blog/:year/:month/:title/
+permalink: /demo/blog/:year/:month/:title/
 markdown: rdiscount
 
 exclude: ["Rakefile", "README.markdown"]
 
 paginate: 10
-pagination_roots: ["/blog"]
+pagination_roots: ["/demo/blog"]
 
 sitename: "David Lynch"
 subtitle: "is not a director"
