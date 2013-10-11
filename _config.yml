@@ -1,1 +1,17 @@
-baseurl: /demo
+url: "http://davidlynch.org"
+pygments: true
+permalink: /blog/:year/:month/:title/
+markdown: rdiscount
+
+exclude: ["Rakefile", "README.markdown"]
+
+paginate: 10
+pagination_roots: ["/blog"]
+
+sitename: "David Lynch"
+subtitle: "is not a director"
+
+author: "David Lynch"
+email: "kemayo@gmail.com"
+
+tag_dir: "blog/tag"
